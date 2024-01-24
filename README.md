@@ -1,5 +1,5 @@
 # ATM MACHINE
-This project generates an automated teller machine (ATM) that stores the user's bank account, acount number, and password. With this ATM, users will be able to:
+This project generates an automated teller machine (ATM) that stores the user's bank account, account number, and password. With this ATM, users will be able to:
 
 1.Make deposits
 
